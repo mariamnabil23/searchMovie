@@ -1,0 +1,11 @@
+.movie-card{
+    display: flex;
+    margin: 20px;
+}
+.movie-card .movie-poster img,
+.filler-poster{
+    width: 80px;
+    height: 120px;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
